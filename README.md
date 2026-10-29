@@ -6,6 +6,10 @@ A simple console Sudoku game written in C with one fixed level, colored output a
 
 ![Winner screen](winner.png)
 
+## Download
+
+Want to play without compiling? Download `sudoku-game-windows.zip` from the [Releases page](https://github.com/Mostafa2252/sudoku-game/releases), unzip it, and run `sudoku.exe`. Keep the `.wav` files in the same folder as the exe so the sounds work.
+
 ## Features
 
 - 9x9 board with one fixed puzzle
